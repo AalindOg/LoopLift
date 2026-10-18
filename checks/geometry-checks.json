@@ -1,0 +1,11 @@
+{
+  "build_id": "11bf28a4c0b9",
+  "all_nonempty_valid": true,
+  "installed_instances": 20,
+  "collision_threshold_mm3": 0.5,
+  "tested_pairs": 46,
+  "clashes": [],
+  "errors": [],
+  "rotor_envelope_clashes": [],
+  "physical_motion_tested": false
+}

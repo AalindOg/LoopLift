@@ -1,0 +1,354 @@
+{
+  "build_id": "11bf28a4c0b9",
+  "printable_parts": 21,
+  "all_meshes_pass": true,
+  "step_valid": true,
+  "step_solid_count": 21,
+  "expected_step_solids": 21,
+  "step_volume_relative_error": 8.599296052311294e-13,
+  "glb_geometry_count": 21,
+  "glb_dimensions_m": [
+    0.2225,
+    0.17318521118164062,
+    0.15000000000000002
+  ],
+  "parts": [
+    {
+      "name": "rear-guard",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        157.0,
+        134.0,
+        14.800000190734863
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "front-guard",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        157.0,
+        134.0,
+        3.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "eight-pocket-rotor",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        130.0,
+        130.0,
+        10.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "keyed-shaft",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        13.0,
+        13.0,
+        45.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "rear-bush",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        18.0,
+        18.0,
+        4.599999904632568
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "crank-arm",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        39.99304996849969,
+        19.98946716543287,
+        6.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "front-spacer",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        12.0,
+        12.0,
+        6.199999809265137
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "shaft-retainer",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        14.0,
+        14.0,
+        3.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "crank-knob",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        14.0,
+        14.0,
+        22.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "inlet-funnel",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        28.0,
+        28.0,
+        29.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "outlet-sleeve",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        16.0,
+        16.0,
+        12.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "lift-stand-left",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        30.0,
+        32.0,
+        74.523681640625
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "lift-stand-right",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        30.0,
+        32.0,
+        74.523681640625
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "upper-return",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        130.94956960214844,
+        29.0,
+        9.999999899999999
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "upper-return-stand",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        26.0,
+        27.0,
+        123.00824737548828
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "side-return",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        101.8053435279297,
+        29.0,
+        9.999999899999999
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "side-return-stand",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        27.0,
+        26.0,
+        96.53919982910156
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "lower-return",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        130.75184621347657,
+        29.0,
+        9.999999899999999
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "lower-return-stand",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        26.0,
+        26.99386215209961,
+        70.94039154052734
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "clearance-coupon",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        70.0,
+        24.0,
+        5.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    },
+    {
+      "name": "baseplate",
+      "watertight": true,
+      "winding": true,
+      "finite": true,
+      "positive_volume": true,
+      "components": 1,
+      "dimensions_mm": [
+        220.0,
+        150.0,
+        6.0
+      ],
+      "bed_256_fit": true,
+      "bed_contact": true,
+      "passed": true
+    }
+  ],
+  "physical_tested": false
+}

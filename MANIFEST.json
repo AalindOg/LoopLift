@@ -1,0 +1,317 @@
+{
+  "build_id": "11bf28a4c0b9",
+  "files": {
+    ".gitattributes": {
+      "bytes": 227,
+      "sha256": "01b6cd229902b6bf843ce48ec8f9c4d7acb1f9861c229f54201e63d283e871e4"
+    },
+    ".gitignore": {
+      "bytes": 53,
+      "sha256": "4f669f116eeffb0ecfa40e7e83508be17750eda9b558eafbea7265ba60c5538f"
+    },
+    "ASSEMBLY.md": {
+      "bytes": 3444,
+      "sha256": "13889665f6628324f6a204606a70ab8a4a8c49958cb9dd43f17e3b442da813c6"
+    },
+    "ATTRIBUTION.md": {
+      "bytes": 3186,
+      "sha256": "fba121247d91bd1c5739f70f1a0f0af03635e3701c556ff35f006d5f643b53c5"
+    },
+    "LICENSE": {
+      "bytes": 1402,
+      "sha256": "f7769d5c1411c37da8ddd36f4252f498ee8442fd05239d8e33d540e73f11924b"
+    },
+    "MODEL-LICENSE.md": {
+      "bytes": 831,
+      "sha256": "37ee65ab6bdfa927e0755c447b4a911bc2c4a7c8d465832c7a0c6b498d443207"
+    },
+    "PRINTING.md": {
+      "bytes": 2974,
+      "sha256": "1d250a82e6a6cb4f585a6890b459877373566e2280951ab2c6b7ca21b92de441"
+    },
+    "README.md": {
+      "bytes": 7801,
+      "sha256": "9007ad7ff0645065b7b7d2c6aad72ef453bdd328a8d0bc54035ffad09e13be95"
+    },
+    "assembly-parts/baseplate.stl": {
+      "bytes": 194284,
+      "sha256": "f67191ec738c2478a5494657a40799ab205124a42f8931bf02a2340a2c9deb09"
+    },
+    "assembly-parts/clearance-coupon.stl": {
+      "bytes": 68684,
+      "sha256": "4552fbf28b60e39a040879e5330792fb676a5761814665841d1ef7754629aff7"
+    },
+    "assembly-parts/crank-arm.stl": {
+      "bytes": 56484,
+      "sha256": "2597a521b25002bb3b4602515efb4566a9417dd78e1b1ffab2b5cc38ebf4fd71"
+    },
+    "assembly-parts/crank-knob.stl": {
+      "bytes": 33684,
+      "sha256": "9d6c313d21bb342e6ed3cb22a662bf5999147b2efb526cca5c3eec12a684e7fe"
+    },
+    "assembly-parts/eight-pocket-rotor.stl": {
+      "bytes": 237284,
+      "sha256": "20e7de52e94e1d742fbc8ba7f3245c98b79b609c1bff52c6d77180c7a053e583"
+    },
+    "assembly-parts/front-guard.stl": {
+      "bytes": 154684,
+      "sha256": "bd59c73c9d158e6ba0c2e491f57d4307a6a45363b7bd2f70a82fbf833b4cd2bf"
+    },
+    "assembly-parts/front-spacer.stl": {
+      "bytes": 33684,
+      "sha256": "7d55292b177951c2ef0732373ce40ad16f79ed8aa4263fbe0172f84c99e657c8"
+    },
+    "assembly-parts/inlet-funnel.stl": {
+      "bytes": 84084,
+      "sha256": "f0435cc325493b572a43977171ac5f7d840ea328b4d883adb5610131e0584eb7"
+    },
+    "assembly-parts/keyed-shaft.stl": {
+      "bytes": 46684,
+      "sha256": "41dac987d09dc5bce63e32fb3f1c48583fc439ca5b2a9fcd5f7d8a3fbcfbb600"
+    },
+    "assembly-parts/lift-stand-left.stl": {
+      "bytes": 52384,
+      "sha256": "194383d1e3b3bbef2c152bd65b50cdb43b572db5a93dd655c9b83c40b8b0ecae"
+    },
+    "assembly-parts/lift-stand-right.stl": {
+      "bytes": 52384,
+      "sha256": "a274d237c8d9cb926d300bf92692dabd18b7edf2237ee9387c2e6194fdcb8973"
+    },
+    "assembly-parts/lower-return-stand.stl": {
+      "bytes": 110284,
+      "sha256": "a2c009feb37ea2808d3a6b9bf50f475448b03693bde067ae4f3158bafbc63822"
+    },
+    "assembly-parts/lower-return.stl": {
+      "bytes": 98184,
+      "sha256": "1487ced87217ef61a9dac8854c5c0847f88a50fc9a7f4dd2cea9862d7640f271"
+    },
+    "assembly-parts/marble-8mm.stl": {
+      "bytes": 176884,
+      "sha256": "86f09557286b3d0bd2d5de8c76b9e0ef52ebd9f1c162f2df523d4ffa709fba5e"
+    },
+    "assembly-parts/outlet-sleeve.stl": {
+      "bytes": 33684,
+      "sha256": "ce99c54db1d231286bd8dc4faf9851a50e4aac11ff56c1a4dcf1d327cb7348ec"
+    },
+    "assembly-parts/rear-bush.stl": {
+      "bytes": 33684,
+      "sha256": "ec3273cf28eb7cc266a4f35f09dfc41165aea6401bca53e6eec678f71cc1bdca"
+    },
+    "assembly-parts/rear-guard.stl": {
+      "bytes": 221884,
+      "sha256": "22f9def9ba2ff59886a9f1ad53bb20cdae0f4b8b071bd664a9257768d983611c"
+    },
+    "assembly-parts/shaft-retainer.stl": {
+      "bytes": 33684,
+      "sha256": "fed503ebcbf04c94e4a1116dccac81acfec4c7094d145b4504113906556eee7d"
+    },
+    "assembly-parts/side-return-stand.stl": {
+      "bytes": 109784,
+      "sha256": "8fa86904a5086933195cff36d1e6f8740cb2cd8c71af4a94ab8e84c04bd37d7c"
+    },
+    "assembly-parts/side-return.stl": {
+      "bytes": 87984,
+      "sha256": "ef3e5f67e173b94995754630ae923ece6ff6d16c7c908e3f0c1cbe121d1d886d"
+    },
+    "assembly-parts/upper-return-stand.stl": {
+      "bytes": 110684,
+      "sha256": "3ff6c3cc4778177e3e535670de88cce7302de10573eb1086184947ac7893c1eb"
+    },
+    "assembly-parts/upper-return.stl": {
+      "bytes": 90184,
+      "sha256": "8cfc09a7b706b543538b1750a937c3a737f79fdd0f28739bf8bba8ae8f837a83"
+    },
+    "bom.csv": {
+      "bytes": 1133,
+      "sha256": "1bbc8caec10bc3139c43d1dc8d785b229bb1d4225160377efe31eda0b009ccaf"
+    },
+    "cad/build.py": {
+      "bytes": 11413,
+      "sha256": "e9d0510f9f4ea7bb5d3e6a5c82765bd043ffcab9c79391e784010a14772069f9"
+    },
+    "cad/check_paths.py": {
+      "bytes": 3108,
+      "sha256": "6131cd209eea8c4a9f2a4e24c9597599c7baee5287dd5097675df63a530126e9"
+    },
+    "cad/package.py": {
+      "bytes": 2590,
+      "sha256": "e9b690a11915f686d34ae9a7f0717cf3562c710a6fcf2e231b5758cb879142b6"
+    },
+    "cad/render.py": {
+      "bytes": 3143,
+      "sha256": "06d8c201c9e83ad0083af66aa611cf366830fc32f749a25975a110e81a7bd379"
+    },
+    "cad/slice_check.py": {
+      "bytes": 2560,
+      "sha256": "750991a4a01c729ea2bb51f0df776eee510172cb63cee970660d75f0a598bc11"
+    },
+    "cad/track_profile.py": {
+      "bytes": 1372,
+      "sha256": "7704b0d875824b4d66b5a1746364c7d04516c8bac39c00220a7c744246ccd1ec"
+    },
+    "cad/validate.py": {
+      "bytes": 2635,
+      "sha256": "7ce76c30ac270b1c9d420a6451b2943f590dd9e765c90ce4ce66596c3a7bbec5"
+    },
+    "checks/geometry-checks.json": {
+      "bytes": 247,
+      "sha256": "6ce4e6fb065249f84284fd602e320fe01b0f142abe94bd7f09669d0b9769be08"
+    },
+    "checks/inventory.json": {
+      "bytes": 8983,
+      "sha256": "1f118cfbe4603cdb64132cdaed7887dece41c899cd019f625d6318f207aab3de"
+    },
+    "checks/mesh-checks.json": {
+      "bytes": 7303,
+      "sha256": "00875cadd07e8b1e07e6d47c2e1d8493a0a7b354fc8d666b9084148d4114513f"
+    },
+    "checks/path-checks.json": {
+      "bytes": 6468,
+      "sha256": "4ab9be9b43b74907842aaef2d26e16854111d9e0be3526964a27c85f918c1c78"
+    },
+    "checks/slicing-checks.json": {
+      "bytes": 5974,
+      "sha256": "c0dd730ed96522e9fcae873109df4b38928f7daa56a19e33d10b23f002e8fe9c"
+    },
+    "exports/LoopLift.glb": {
+      "bytes": 836572,
+      "sha256": "04ed7648e0b1b652cd64bbf3b3bdc792919255203df4818fea368d5c50a104c8"
+    },
+    "exports/LoopLift.step": {
+      "bytes": 2002465,
+      "sha256": "e7802c578e2c658e554749f13749aba05105d6ad730cf76cdcffd8f310c1576a"
+    },
+    "images/assembled.png": {
+      "bytes": 110761,
+      "sha256": "7f2c81da165c91797f94aa6235be337ef152895cc0835b22449ec07e7d40d824"
+    },
+    "images/cutaway.png": {
+      "bytes": 118759,
+      "sha256": "fc64ff317c8d3d268d7e623b3d5caee61f6515ad3abbd881a2d8f4e4f2a81dcf"
+    },
+    "images/front.png": {
+      "bytes": 74261,
+      "sha256": "682f5888b4478ef06dbb794f15a79c870951cb9fb219216952ce78e45320ec8f"
+    },
+    "images/hero.jpg": {
+      "bytes": 249630,
+      "sha256": "0d6a65c47958cbe86c3df74de222f7af020337dce4bcd98e6f6868f5319a5fb5"
+    },
+    "images/rear.png": {
+      "bytes": 110497,
+      "sha256": "2b13bd28f2dd351e2db4f473cb629b264847412fa56c67fd4dd3b6021efb665e"
+    },
+    "images/top.png": {
+      "bytes": 186259,
+      "sha256": "8d4965003af0222a94b3a6f05fa451341cbba30ca43249b2615a8bd38e63e614"
+    },
+    "parts/baseplate.stl": {
+      "bytes": 194284,
+      "sha256": "8616d888b639dc5d9e29721028a41209ead0476180aac18a4d0ddcef1a706664"
+    },
+    "parts/clearance-coupon.stl": {
+      "bytes": 68684,
+      "sha256": "dc5f633a85d659309871f2d5cdae990d8fede0eb814fa72baf83cb75fda9c9c5"
+    },
+    "parts/crank-arm.stl": {
+      "bytes": 56484,
+      "sha256": "57fdb65423a13ffbf6c9f395dad853d234354776b180dab16b9961f30bc1a64d"
+    },
+    "parts/crank-knob.stl": {
+      "bytes": 33684,
+      "sha256": "e18da1803e1104879d8a4bc10f6987a3a90d7d58efb6a48d9aeefb229b5e8cbf"
+    },
+    "parts/eight-pocket-rotor.stl": {
+      "bytes": 237284,
+      "sha256": "e75532035760a016abfb47a2c1248474ab685ccfa0508a35ad99e59174dae468"
+    },
+    "parts/front-guard.stl": {
+      "bytes": 154684,
+      "sha256": "bf86557b81cb071481e231b8ed88e12d0bfac0b79c349d5f6de1026ce91c2caa"
+    },
+    "parts/front-spacer.stl": {
+      "bytes": 33684,
+      "sha256": "8539d557e0ece621b0fd7473f7e1db4d32a6e317b8cef990be4b30307d1eac97"
+    },
+    "parts/inlet-funnel.stl": {
+      "bytes": 84084,
+      "sha256": "e62d67395c409c58f96605854db274047f658bfccfb08591f98d41bf5cbaa5b2"
+    },
+    "parts/keyed-shaft.stl": {
+      "bytes": 46684,
+      "sha256": "fd7de31a2e596664df638ac70fbf014344d607d2d557fac089f7f28f8cbbeb3f"
+    },
+    "parts/lift-stand-left.stl": {
+      "bytes": 52384,
+      "sha256": "18043c73e17e5aea5076d2cc4836fc8c80c5557e6ab292e9492edcc578a548f7"
+    },
+    "parts/lift-stand-right.stl": {
+      "bytes": 52384,
+      "sha256": "ccfd8ea7fc7fa2852b60f9c6c69a2c810072f684ea55b8b6f9565b3a187c6ba5"
+    },
+    "parts/lower-return-stand.stl": {
+      "bytes": 110284,
+      "sha256": "90a39c5484b27774eb9c249c38ddadec7331e4a17075bc716ca8a5dfc49dedbb"
+    },
+    "parts/lower-return.stl": {
+      "bytes": 98184,
+      "sha256": "c56191ce098151a84f9d3cab67fe878f45799a83827103e3cc2710ab0741aa80"
+    },
+    "parts/outlet-sleeve.stl": {
+      "bytes": 33684,
+      "sha256": "dbcad62af1615d3feb4155d71956d29bc49fa69b7267b765a95c5015d5f4a631"
+    },
+    "parts/rear-bush.stl": {
+      "bytes": 33684,
+      "sha256": "e032c6e321f5a55917d3ae24a801f9ac69f6b8d90fd569c0f05b21031a71fb53"
+    },
+    "parts/rear-guard.stl": {
+      "bytes": 221884,
+      "sha256": "065ddc53523287a3c99deed91ecc8fe68415fb9aaec91454daf7b2bc3acf9a58"
+    },
+    "parts/shaft-retainer.stl": {
+      "bytes": 33684,
+      "sha256": "885b3ada8ffb355b7184c54f5378c6b3bb2858376dfb5f976d9a5b937a5cbb64"
+    },
+    "parts/side-return-stand.stl": {
+      "bytes": 109784,
+      "sha256": "00eabfe8b2fd5a5cd4df6e90cc81737c8e02462d8b7176b5e1fc9314b592435f"
+    },
+    "parts/side-return.stl": {
+      "bytes": 87984,
+      "sha256": "e21461a361406850da05f42cad9830447971193a1032596a4d958177013a421c"
+    },
+    "parts/upper-return-stand.stl": {
+      "bytes": 110684,
+      "sha256": "8e2c3261b48da3e9b41c1a5e1753dd64ffc03fc955b667360eb7af5a961fc5a2"
+    },
+    "parts/upper-return.stl": {
+      "bytes": 90184,
+      "sha256": "6769f75629342cbf1e1ddccbdaf1c0e01599db9416062391e070c93f3a688429"
+    },
+    "requirements.txt": {
+      "bytes": 62,
+      "sha256": "0ef86a7b49cc954f27e368204fed4f103f34d529c80ed63516bcae08c0621bf7"
+    },
+    "upstream/jhpieper-marble-run/LICENSE": {
+      "bytes": 1067,
+      "sha256": "6b74ec2125719a431aac4610a0ba6239a81e468138b86ee11b6c49cf7702b206"
+    },
+    "upstream/jhpieper-marble-run/README.md": {
+      "bytes": 5814,
+      "sha256": "cac85999149240741cddbab188891d929e5f82d6e42735d39be84b6a5ebbbddf"
+    },
+    "upstream/jhpieper-marble-run/openscad/straight-extrude.scad": {
+      "bytes": 2184,
+      "sha256": "cc2f774695689b5f31ddf8a575af39a215e231b6ce8f153c043a12a4fb26333b"
+    },
+    "upstream/jhpieper-marble-run/openscad/wheel.scad": {
+      "bytes": 1861,
+      "sha256": "7c4faec60ea488e9d70214baaced9c95a58e63e357bf04219eadafcd655b6e35"
+    },
+    "upstream/source.json": {
+      "bytes": 842,
+      "sha256": "d7ea8de324faa0ad6caa29c9c7d796d7590892d6b2adb6356bbc403b3fbc198d"
+    }
+  }
+}

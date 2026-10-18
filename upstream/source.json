@@ -1,0 +1,24 @@
+{
+  "repository": "https://github.com/jhpieper/marble-run",
+  "commit": "64b8f62091775c56ffcdbe276b6a8cbad95581f7",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "6b74ec2125719a431aac4610a0ba6239a81e468138b86ee11b6c49cf7702b206"
+    },
+    {
+      "path": "README.md",
+      "sha256": "cac85999149240741cddbab188891d929e5f82d6e42735d39be84b6a5ebbbddf"
+    },
+    {
+      "path": "openscad/straight-extrude.scad",
+      "sha256": "cc2f774695689b5f31ddf8a575af39a215e231b6ce8f153c043a12a4fb26333b"
+    },
+    {
+      "path": "openscad/wheel.scad",
+      "sha256": "7c4faec60ea488e9d70214baaced9c95a58e63e357bf04219eadafcd655b6e35"
+    }
+  ],
+  "code_license": "MIT",
+  "upstream_export_license_note": "Upstream README states STL objects also published under CC BY 4.0; retain attribution and publish derived geometry CC BY 4.0."
+}

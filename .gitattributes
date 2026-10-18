@@ -1,0 +1,6 @@
+*.step -text -diff linguist-generated=true
+*.stl -text -diff linguist-generated=true
+*.glb -text -diff linguist-generated=true
+checks/*.json linguist-generated=true
+MANIFEST.json linguist-generated=true
+upstream/** -text -diff

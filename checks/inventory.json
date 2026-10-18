@@ -1,0 +1,434 @@
+{
+  "build_id": "11bf28a4c0b9",
+  "parts": [
+    {
+      "name": "rear-guard",
+      "color": [
+        0.52,
+        0.69,
+        0.78
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Back face on bed; pillars upward. M3 through bolts secure both guards.",
+      "volume_mm3": 55351.85209072846,
+      "print_bounds_mm": [
+        157.0,
+        134.0,
+        14.8
+      ]
+    },
+    {
+      "name": "front-guard",
+      "color": [
+        0.52,
+        0.69,
+        0.78
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Flat on bed; inlet at lower indexed pocket.",
+      "volume_mm3": 39811.32177906307,
+      "print_bounds_mm": [
+        157.0,
+        134.0,
+        3.0000000000000018
+      ]
+    },
+    {
+      "name": "eight-pocket-rotor",
+      "color": [
+        0.99,
+        0.47,
+        0.17
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Flat on bed. 8 mm ball / 9.6 mm pockets / 0.4 mm axial gaps each side.",
+      "volume_mm3": 117374.14254592624,
+      "print_bounds_mm": [
+        130.0,
+        130.0,
+        10.0
+      ]
+    },
+    {
+      "name": "keyed-shaft",
+      "color": [
+        0.85,
+        0.87,
+        0.89
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Collar on bed; M3 self-tapping retainer pilot. Tall thin print: brim recommended.",
+      "volume_mm3": 2288.0135923716393,
+      "print_bounds_mm": [
+        13.0,
+        13.0,
+        45.0
+      ]
+    },
+    {
+      "name": "rear-bush",
+      "color": [
+        0.85,
+        0.87,
+        0.89
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Separate replaceable printed bearing; 0.3 mm nominal radial clearance.",
+      "volume_mm3": 903.3524011691304,
+      "print_bounds_mm": [
+        18.0,
+        18.0,
+        4.6
+      ]
+    },
+    {
+      "name": "crank-arm",
+      "color": [
+        0.99,
+        0.47,
+        0.17
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "M3 screw + washer at handle; keyed hub. Rotor rotation direction indicated in docs.",
+      "volume_mm3": 3120.434842608446,
+      "print_bounds_mm": [
+        40.0,
+        20.0,
+        6.0
+      ]
+    },
+    {
+      "name": "front-spacer",
+      "color": [
+        0.85,
+        0.87,
+        0.89
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "",
+      "volume_mm3": 341.0575816590151,
+      "print_bounds_mm": [
+        12.0,
+        12.0,
+        6.2
+      ]
+    },
+    {
+      "name": "shaft-retainer",
+      "color": [
+        0.99,
+        0.47,
+        0.17
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "M3x12 screw into printed shaft pilot; do not overtighten.",
+      "volume_mm3": 434.57651177107624,
+      "print_bounds_mm": [
+        14.0,
+        14.0,
+        3.0
+      ]
+    },
+    {
+      "name": "crank-knob",
+      "color": [
+        0.85,
+        0.87,
+        0.89
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "M3x30 screw, nut and washers; leave free to spin.",
+      "volume_mm3": 3186.894419654557,
+      "print_bounds_mm": [
+        14.0,
+        14.0,
+        22.0
+      ]
+    },
+    {
+      "name": "inlet-funnel",
+      "color": [
+        0.2,
+        0.69,
+        0.69
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Separate removable chute; attach to guard with a small glue bead after fit test.",
+      "volume_mm3": 3678.4800527067396,
+      "print_bounds_mm": [
+        28.0,
+        28.0,
+        29.0
+      ]
+    },
+    {
+      "name": "outlet-sleeve",
+      "color": [
+        0.2,
+        0.69,
+        0.69
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Separate removable chute; attach to guard with a small glue bead after fit test.",
+      "volume_mm3": 1055.5751316061705,
+      "print_bounds_mm": [
+        16.0,
+        16.0,
+        12.0
+      ]
+    },
+    {
+      "name": "lift-stand-left",
+      "color": [
+        0.14,
+        0.21,
+        0.27
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Upright print; support sloped top block. Bolts align with lower guard ears.",
+      "volume_mm3": 14326.852038288587,
+      "print_bounds_mm": [
+        30.0,
+        32.0,
+        74.52368494354975
+      ]
+    },
+    {
+      "name": "lift-stand-right",
+      "color": [
+        0.14,
+        0.21,
+        0.27
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Upright print; support sloped top block. Bolts align with lower guard ears.",
+      "volume_mm3": 14326.852038288605,
+      "print_bounds_mm": [
+        30.0,
+        32.0,
+        74.52368494354975
+      ]
+    },
+    {
+      "name": "marble-8mm",
+      "color": [
+        0.85,
+        0.87,
+        0.89
+      ],
+      "qty": 1,
+      "printable": false,
+      "note": "8 mm purchased ball; schematic indexed position, not a dynamic simulation.",
+      "volume_mm3": 268.0825731063291,
+      "print_bounds_mm": [
+        8.0,
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "upper-return",
+      "color": [
+        0.2,
+        0.69,
+        0.69
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "MIT-derived Jan Pieper profile, 8 mm ball sizing, flat sole, bolted tabs and catch cup.",
+      "volume_mm3": 8458.984856284576,
+      "print_bounds_mm": [
+        130.94956934592,
+        29.0,
+        10.00000020000098
+      ]
+    },
+    {
+      "name": "upper-return-stand",
+      "color": [
+        0.14,
+        0.21,
+        0.27
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "M3x8 track attachment into printed pilot. 2x M3 base bolts. Post height is fixed to this layout.",
+      "volume_mm3": 14427.32710075116,
+      "print_bounds_mm": [
+        26.0,
+        27.0,
+        123.00847457627118
+      ]
+    },
+    {
+      "name": "side-return",
+      "color": [
+        0.2,
+        0.69,
+        0.69
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "MIT-derived Jan Pieper profile, 8 mm ball sizing, flat sole, bolted tabs and catch cup.",
+      "volume_mm3": 6940.971318413733,
+      "print_bounds_mm": [
+        101.80534525250786,
+        29.0,
+        10.000000199999999
+      ]
+    },
+    {
+      "name": "side-return-stand",
+      "color": [
+        0.14,
+        0.21,
+        0.27
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "M3x8 track attachment into printed pilot. 2x M3 base bolts. Post height is fixed to this layout.",
+      "volume_mm3": 11745.098124945773,
+      "print_bounds_mm": [
+        27.0,
+        26.0,
+        96.53932584269661
+      ]
+    },
+    {
+      "name": "lower-return",
+      "color": [
+        0.2,
+        0.69,
+        0.69
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "MIT-derived Jan Pieper profile, 8 mm ball sizing, flat sole, bolted tabs and catch cup.",
+      "volume_mm3": 8395.801611490393,
+      "print_bounds_mm": [
+        130.75184229097562,
+        29.0,
+        10.000000200000011
+      ]
+    },
+    {
+      "name": "lower-return-stand",
+      "color": [
+        0.14,
+        0.21,
+        0.27
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "M3x8 track attachment into printed pilot. 2x M3 base bolts. Post height is fixed to this layout.",
+      "volume_mm3": 9199.621979739355,
+      "print_bounds_mm": [
+        26.0,
+        26.993862498269593,
+        70.94053561548174
+      ]
+    },
+    {
+      "name": "clearance-coupon",
+      "color": [
+        0.85,
+        0.87,
+        0.89
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Not installed. Left-to-right holes 8.2 / 8.4 / 8.6 / 9.6 mm; print before mechanism.",
+      "volume_mm3": 7206.508950901239,
+      "print_bounds_mm": [
+        70.0,
+        24.0,
+        5.0
+      ]
+    },
+    {
+      "name": "baseplate",
+      "color": [
+        0.14,
+        0.21,
+        0.27
+      ],
+      "qty": 1,
+      "printable": true,
+      "note": "Flat bottom. M3 nut traps on underside. Nominal 220x150mm: requires bed margin or a larger bed.",
+      "volume_mm3": 196634.05493900852,
+      "print_bounds_mm": [
+        220.00000000000009,
+        150.0,
+        6.0
+      ]
+    }
+  ],
+  "parameters": {
+    "ball_mm": 8.0,
+    "pocket_mm": 9.6,
+    "track_ID_mm": 10.0,
+    "tilt_degrees": 75.0,
+    "axial_gap_mm": 0.4,
+    "rotor_radius_mm": 65.0
+  },
+  "routes": [
+    {
+      "name": "upper-return",
+      "start": [
+        -30,
+        31,
+        136
+      ],
+      "end": [
+        88,
+        31,
+        121
+      ],
+      "length": 118.94956914591998,
+      "drop": 15
+    },
+    {
+      "name": "side-return",
+      "start": [
+        88,
+        31,
+        108
+      ],
+      "end": [
+        88,
+        -58,
+        96
+      ],
+      "length": 89.80534505250787,
+      "drop": 12
+    },
+    {
+      "name": "lower-return",
+      "start": [
+        88,
+        -58,
+        83
+      ],
+      "end": [
+        -30,
+        -55,
+        70
+      ],
+      "length": 118.75184209097559,
+      "drop": 13
+    }
+  ]
+}

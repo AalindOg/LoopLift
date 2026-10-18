@@ -1,0 +1,252 @@
+{
+  "build_id": "11bf28a4c0b9",
+  "slicer_version": "PrusaSlicer 2.7.2 Ubuntu package",
+  "tested_parts": 21,
+  "all_pass": true,
+  "settings": {
+    "bed_mm": [
+      256,
+      256
+    ],
+    "layer_mm": 0.2,
+    "nozzle_mm": 0.4,
+    "perimeters": 3,
+    "infill": "20% gyroid",
+    "supports": "buildplate only, 45 degree threshold",
+    "brim_mm": 3
+  },
+  "results": [
+    {
+      "name": "rear-guard",
+      "exit_code": 0,
+      "gcode_bytes": 6217885,
+      "layer_markers": 74,
+      "filament_mm": 12371.8,
+      "filament_cm3": 29.76,
+      "estimated_time": "4h 3m 48s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "front-guard",
+      "exit_code": 0,
+      "gcode_bytes": 3201996,
+      "layer_markers": 15,
+      "filament_mm": 9919.93,
+      "filament_cm3": 23.86,
+      "estimated_time": "3h 11m 39s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "eight-pocket-rotor",
+      "exit_code": 0,
+      "gcode_bytes": 12723552,
+      "layer_markers": 50,
+      "filament_mm": 18519.77,
+      "filament_cm3": 44.55,
+      "estimated_time": "5h 27m 32s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "keyed-shaft",
+      "exit_code": 0,
+      "gcode_bytes": 1126172,
+      "layer_markers": 225,
+      "filament_mm": 928.8,
+      "filament_cm3": 2.23,
+      "estimated_time": "29m 15s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "rear-bush",
+      "exit_code": 0,
+      "gcode_bytes": 403369,
+      "layer_markers": 23,
+      "filament_mm": 305.95,
+      "filament_cm3": 0.74,
+      "estimated_time": "6m 45s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "crank-arm",
+      "exit_code": 0,
+      "gcode_bytes": 903194,
+      "layer_markers": 30,
+      "filament_mm": 837.04,
+      "filament_cm3": 2.01,
+      "estimated_time": "16m 37s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "front-spacer",
+      "exit_code": 0,
+      "gcode_bytes": 226538,
+      "layer_markers": 31,
+      "filament_mm": 149.18,
+      "filament_cm3": 0.36,
+      "estimated_time": "4m 47s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "shaft-retainer",
+      "exit_code": 0,
+      "gcode_bytes": 215353,
+      "layer_markers": 15,
+      "filament_mm": 157.32,
+      "filament_cm3": 0.38,
+      "estimated_time": "4m 13s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "crank-knob",
+      "exit_code": 0,
+      "gcode_bytes": 1349112,
+      "layer_markers": 110,
+      "filament_mm": 862.77,
+      "filament_cm3": 2.08,
+      "estimated_time": "23m 35s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "inlet-funnel",
+      "exit_code": 0,
+      "gcode_bytes": 1922785,
+      "layer_markers": 145,
+      "filament_mm": 1522.73,
+      "filament_cm3": 3.66,
+      "estimated_time": "28m 1s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "outlet-sleeve",
+      "exit_code": 0,
+      "gcode_bytes": 621048,
+      "layer_markers": 60,
+      "filament_mm": 445.43,
+      "filament_cm3": 1.07,
+      "estimated_time": "7m 19s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "lift-stand-left",
+      "exit_code": 0,
+      "gcode_bytes": 1701269,
+      "layer_markers": 372,
+      "filament_mm": 3383.14,
+      "filament_cm3": 8.14,
+      "estimated_time": "1h 6m 38s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "lift-stand-right",
+      "exit_code": 0,
+      "gcode_bytes": 1701269,
+      "layer_markers": 372,
+      "filament_mm": 3383.14,
+      "filament_cm3": 8.14,
+      "estimated_time": "1h 6m 38s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "upper-return",
+      "exit_code": 0,
+      "gcode_bytes": 1204229,
+      "layer_markers": 53,
+      "filament_mm": 3191.0,
+      "filament_cm3": 7.68,
+      "estimated_time": "49m 7s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "upper-return-stand",
+      "exit_code": 0,
+      "gcode_bytes": 6481165,
+      "layer_markers": 615,
+      "filament_mm": 5706.11,
+      "filament_cm3": 13.72,
+      "estimated_time": "2h 57m 33s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "side-return",
+      "exit_code": 0,
+      "gcode_bytes": 1164475,
+      "layer_markers": 53,
+      "filament_mm": 2604.54,
+      "filament_cm3": 6.26,
+      "estimated_time": "40m 24s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "side-return-stand",
+      "exit_code": 0,
+      "gcode_bytes": 5189874,
+      "layer_markers": 497,
+      "filament_mm": 4571.22,
+      "filament_cm3": 11.0,
+      "estimated_time": "2h 19m 13s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "lower-return",
+      "exit_code": 0,
+      "gcode_bytes": 1304740,
+      "layer_markers": 54,
+      "filament_mm": 3229.65,
+      "filament_cm3": 7.77,
+      "estimated_time": "50m 59s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "lower-return-stand",
+      "exit_code": 0,
+      "gcode_bytes": 3885073,
+      "layer_markers": 355,
+      "filament_mm": 3462.66,
+      "filament_cm3": 8.33,
+      "estimated_time": "1h 43m 59s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "clearance-coupon",
+      "exit_code": 0,
+      "gcode_bytes": 984155,
+      "layer_markers": 25,
+      "filament_mm": 1793.03,
+      "filament_cm3": 4.31,
+      "estimated_time": "36m 28s",
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "name": "baseplate",
+      "exit_code": 0,
+      "gcode_bytes": 15861509,
+      "layer_markers": 37,
+      "filament_mm": 32155.53,
+      "filament_cm3": 77.34,
+      "estimated_time": "9h 33m 4s",
+      "warnings": [],
+      "passed": true
+    }
+  ],
+  "limitations": "Generic slicing only. No printer-specific G-code published; support removal and physical tolerances remain untested."
+}

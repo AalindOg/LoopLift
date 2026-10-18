@@ -1,0 +1,294 @@
+{
+  "build_id": "11bf28a4c0b9",
+  "crank_sampled_angles": 24,
+  "crank_clashes": [],
+  "rotor_seated_ball_samples": [
+    {
+      "angle_degrees": 0,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 15,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 30,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 45,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 60,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 75,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 90,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 105,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 120,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 135,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 150,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 165,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 180,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 195,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 210,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 225,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 240,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 255,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 270,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 285,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 300,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 315,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 330,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    },
+    {
+      "angle_degrees": 345,
+      "ball_rotor_overlap_mm3": 0.0,
+      "ball_guard_overlap_mm3": 0.0
+    }
+  ],
+  "track_samples": [
+    {
+      "name": "upper-return",
+      "drop_mm": 15,
+      "samples": [
+        {
+          "fraction": 0.15,
+          "center": [
+            -11.492935286026693,
+            31.0,
+            140.09890908325667
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.3,
+          "center": [
+            6.207064713973303,
+            31.0,
+            137.84890908325667
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.5,
+          "center": [
+            29.807064713973304,
+            31.0,
+            134.84890908325667
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.7,
+          "center": [
+            53.4070647139733,
+            31.0,
+            131.84890908325667
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.85,
+          "center": [
+            71.1070647139733,
+            31.0,
+            129.59890908325667
+          ],
+          "overlap_mm3": 0.0
+        }
+      ]
+    },
+    {
+      "name": "side-return",
+      "drop_mm": 12,
+      "samples": [
+        {
+          "fraction": 0.15,
+          "center": [
+            88.0,
+            16.794817048973016,
+            112.54260688678345
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.3,
+          "center": [
+            88.0,
+            3.4448170489730146,
+            110.74260688678345
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.5,
+          "center": [
+            88.0,
+            -14.355182951026983,
+            108.34260688678344
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.7,
+          "center": [
+            88.0,
+            -32.15518295102698,
+            105.94260688678345
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.85,
+          "center": [
+            88.00000000000001,
+            -45.50518295102698,
+            104.14260688678345
+          ],
+          "overlap_mm3": 0.0
+        }
+      ]
+    },
+    {
+      "name": "lower-return",
+      "drop_mm": 13,
+      "samples": [
+        {
+          "fraction": 0.15,
+          "center": [
+            69.5996056083136,
+            -57.53219336292322,
+            87.41153524078663
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.3,
+          "center": [
+            51.89960560831359,
+            -57.08219336292323,
+            85.46153524078663
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.5,
+          "center": [
+            28.2996056083136,
+            -56.48219336292322,
+            82.86153524078664
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.7,
+          "center": [
+            4.699605608313604,
+            -55.88219336292322,
+            80.26153524078663
+          ],
+          "overlap_mm3": 0.0
+        },
+        {
+          "fraction": 0.85,
+          "center": [
+            -13.000394391686413,
+            -55.43219336292322,
+            78.31153524078664
+          ],
+          "overlap_mm3": 0.0
+        }
+      ]
+    }
+  ],
+  "failures": [],
+  "passed_nominal_samples": true,
+  "scope": "Geometric seated-ball clearance in pocket and straight trough segments ONLY.",
+  "not_verified": [
+    "inlet capture while rotor moves",
+    "outlet release timing",
+    "ballistic cup catches",
+    "funnel capture",
+    "friction/rolling",
+    "wear",
+    "real printed tolerances"
+  ]
+}
