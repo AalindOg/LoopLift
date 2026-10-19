@@ -4,3 +4,9 @@
 checks/*.json linguist-generated=true
 MANIFEST.json linguist-generated=true
 upstream/** -text -diff
+*.mp4 -text -diff linguist-generated=true
+*.wav -text -diff linguist-generated=true
+evidence/**/*.json linguist-generated=true
+media/**/*.json linguist-generated=true
+bom-shopping.csv -text whitespace=cr-at-eol
+shopping/LoopLift-priced-shopping-list.csv -text whitespace=cr-at-eol

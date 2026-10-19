@@ -1,0 +1,211 @@
+{
+  "scope": "Candidate geometry relief only; not incorporated in LoopLift or physically tested",
+  "before_volume_mm3": 3678.4800527067396,
+  "after_volume_mm3": 3646.097186761296,
+  "removed_mm3": 32.38286594544343,
+  "path": [
+    {
+      "fraction": 0.8,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.808,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8160000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8240000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8320000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8400000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8480000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8560000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8640000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.8720000000000001,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.88,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.888,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.896,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.904,
+      "before_overlap_mm3": 0.0,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.912,
+      "before_overlap_mm3": 0.005050559966741563,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.92,
+      "before_overlap_mm3": 0.1673634251564976,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.928,
+      "before_overlap_mm3": 0.5290070734976798,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.936,
+      "before_overlap_mm3": 0.9480097207468873,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9440000000000001,
+      "before_overlap_mm3": 1.158698396011121,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9520000000000001,
+      "before_overlap_mm3": 1.1315889892868338,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9600000000000001,
+      "before_overlap_mm3": 0.9644421842567207,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9680000000000001,
+      "before_overlap_mm3": 0.7529915104734385,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9760000000000001,
+      "before_overlap_mm3": 0.5679645362399528,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9840000000000001,
+      "before_overlap_mm3": 0.44569364340810547,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 0.9920000000000001,
+      "before_overlap_mm3": 0.39930874381528425,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.0,
+      "before_overlap_mm3": 0.4401203034793805,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.008,
+      "before_overlap_mm3": 0.5994201428395766,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.016,
+      "before_overlap_mm3": 0.9424822447493479,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.024,
+      "before_overlap_mm3": 1.5667382500928333,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.032,
+      "before_overlap_mm3": 2.57885920415627,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.04,
+      "before_overlap_mm3": 4.055636310740678,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.048,
+      "before_overlap_mm3": 5.999395372672752,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.056,
+      "before_overlap_mm3": 7.894821232567933,
+      "after_overlap_mm3": 0.0
+    },
+    {
+      "fraction": 1.064,
+      "before_overlap_mm3": 8.998102515230503,
+      "after_overlap_mm3": 0.48974071449216017
+    },
+    {
+      "fraction": 1.072,
+      "before_overlap_mm3": 9.001143482276065,
+      "after_overlap_mm3": 1.6250092618405003
+    },
+    {
+      "fraction": 1.08,
+      "before_overlap_mm3": 7.834374869622424,
+      "after_overlap_mm3": 2.68097795201136
+    }
+  ],
+  "max_after_overlap_mm3": 2.68097795201136,
+  "mesh_checks": {
+    "funnel-lip-relief-study.stl": {
+      "watertight": true,
+      "winding": true,
+      "connected_components": 1,
+      "positive_volume": true
+    },
+    "expanded-clearance-coupon.stl": {
+      "watertight": true,
+      "winding": true,
+      "connected_components": 1,
+      "positive_volume": true
+    }
+  },
+  "published_machine_changed": false,
+  "new_risks": [
+    "lip wall loss",
+    "ball retention",
+    "remaining impact dynamics",
+    "support removal"
+  ],
+  "physical_tested": false
+}

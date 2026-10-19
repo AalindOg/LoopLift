@@ -6,11 +6,26 @@
 
 [Download STEP](exports/LoopLift.step) · [Print-part STLs](parts/) · [Coloured GLB](exports/LoopLift.glb) · [Assembly](ASSEMBLY.md) · [What we changed](ATTRIBUTION.md)
 
+[Priced shopping list](shopping/README.md) · [28 evidence images + entry drafts](evidence/README.md) · [Progress reels](media/README.md) · [Study STEP/STLs](evidence/study-parts/)
+
 ![LoopLift assembly and exposed-rotor view](images/hero.jpg)
 
 LoopLift combines an inclined eight-pocket elevator with three removable gravity-return tracks. The intended cycle is simple: a marble enters at the bottom, the hand crank carries it upward, and the return course brings it back. No motor, battery or Raspberry Pi is needed.
 
 **Status: real CAD exports and sliced parts; not yet printed or proven to circulate marbles.** The inlet, outlet and track-to-cup transfers are still physical-test gates. A clear geometry report is not a working-machine claim.
+
+## Latest engineering review and shopping cart
+
+The review found **funnel-lip interference along the final return path and its extension**. An isolated relief candidate clears the sampled path, but is **not installed in the baseline assembly** and has not been qualified for strength, ball retention or physical flow. Corner-transfer calculations are idealised screens, not dynamics validation.
+
+- **Four evidence packs:** seven distinct images and one review draft per pack, with raw results and portable analysis scripts. [Open the evidence](evidence/README.md).
+- **Four progress reels:** 43 seconds each, plus the earlier 32-second idea reel. Actual CAD and analysis, music, no added captions or claimed hours. [Watch/download](media/README.md).
+- **Amazon UAE shopping snapshot:** four packs, **AED 224.77 ≈ USD 61.20**, checked 19 October 2026. [Prices, exact links and cart evidence](shopping/README.md).
+- **Hardware requirements stay separate from purchase packs:** [bom.csv](bom.csv) preserves the original eleven requirement rows; [bom-shopping.csv](bom-shopping.csv) prices four proposed purchase packs without double-counting individual screws.
+
+![Engineering evidence preview](evidence/review/package-preview.jpg)
+
+The entry drafts disclose AI assistance and leave participant time blank. Nothing here is a claim of 27 hours already worked, a physical build or a completed Half Life submission. LoopLift has no electronic “brain module.”
 
 ## We checked whether this already exists
 
@@ -67,7 +82,7 @@ A crank/funnel collision was found during the sweep test and the crank radius wa
 - Print the clearance coupon first.
 - Use a 256 × 256 mm-class bed for the tested arrangement; the base is nominally 220 × 150 mm and needs brim/margins.
 - The generic slice estimated approximately **263 cm³ of filament / 327 g at an assumed PLA density of 1.24 g/cm³** and **36 h 28 min** across separately sliced parts. This is a conservative generic profile, not a printer-specific promise.
-- [bom.csv](bom.csv) lists the planned hardware; prices are intentionally unquoted until actual vendor carts exist.
+- [bom.csv](bom.csv) lists the planned hardware quantities; [bom-shopping.csv](bom-shopping.csv) prices the corresponding packs. The [shopping guide](shopping/README.md) explains compatibility checks and the real guest-cart subtotal.
 
 Keep small balls and loose hardware away from young children and pets. Hand-cranked parts can pinch: operate slowly and keep fingers away from rotor openings. There are no magnets or electrical parts in this version.
 
@@ -104,4 +119,4 @@ Builds are source-hash keyed under `build/`; `cad/package.py` only publishes the
 
 Project direction: **Aalind Tiwari**. Procedural CAD implementation, debugging, tests, rendering and documentation were **AI-assisted with Ava/Hermes**. Inherited track-profile credit: **Jan Pieper**.
 
-Source code is [MIT](LICENSE); generated models/renders are [CC BY 4.0](MODEL-LICENSE.md). Upstream notices remain intact. This repo does not imply endorsement or guarantee that Half Life will accept the project. Meaningful personal work and accurate journaling are still required; no hours, print results or acceptance are invented here.
+Source code is [MIT](LICENSE); generated models/renders are [CC BY 4.0](MODEL-LICENSE.md). Upstream notices remain intact. Retailer screenshots retain their original third-party rights; see [shopping attribution](shopping/README.md#cart-evidence-and-rights). This repo does not imply endorsement or guarantee that Half Life will accept the project. Meaningful personal work and accurate journaling are still required; no hours, print results or acceptance are invented here.

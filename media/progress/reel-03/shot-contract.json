@@ -1,0 +1,300 @@
+{
+  "pack": 3,
+  "source_commit": "7712d05fe7e66b4126ac8483b1d622be7d8f1079",
+  "build_id": "11bf28a4c0b9",
+  "duration_seconds": 43,
+  "shots": [
+    {
+      "kind": "full",
+      "duration": 4,
+      "parts": [
+        "rear-guard",
+        "front-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "crank-arm",
+        "front-spacer",
+        "shaft-retainer",
+        "crank-knob",
+        "inlet-funnel",
+        "outlet-sleeve",
+        "lift-stand-left",
+        "lift-stand-right",
+        "upper-return",
+        "upper-return-stand",
+        "side-return",
+        "side-return-stand",
+        "lower-return",
+        "lower-return-stand",
+        "baseplate"
+      ],
+      "azimuth": [
+        -67,
+        -49
+      ],
+      "elevation": 0.58,
+      "computed_scale": 263.5679265298978,
+      "target": [
+        -8.75,
+        -5.0,
+        86.59260559082031
+      ],
+      "render_height": 1280
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "upper-return",
+        "side-return",
+        "lower-return",
+        "inlet-funnel",
+        "outlet-sleeve"
+      ],
+      "azimuth": [
+        -65,
+        -40
+      ],
+      "elevation": 1.65,
+      "evidence": "evidence/pack-03/01-route-plan.png",
+      "evidence_description": "Three source-defined return segments and lift interfaces.",
+      "computed_scale": 120.27153261556916,
+      "target": [
+        29.25,
+        -12.823448181152344,
+        106.26127624511719
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "upper-return",
+        "side-return",
+        "lower-return",
+        "inlet-funnel",
+        "outlet-sleeve"
+      ],
+      "azimuth": [
+        -78,
+        -54
+      ],
+      "elevation": 0.45,
+      "evidence": "evidence/pack-03/02-grade-profile.png",
+      "evidence_description": "Computed lengths, downward grades and vertical discontinuities.",
+      "computed_scale": 114.84898231507556,
+      "target": [
+        29.25,
+        -12.823448181152344,
+        106.26127624511719
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "upper-return",
+        "side-return"
+      ],
+      "azimuth": [
+        -58,
+        -34
+      ],
+      "elevation": 1.8,
+      "evidence": "evidence/pack-03/03-corner-1-screen.png",
+      "evidence_description": "Idealised corner-transfer screen with explicit model limitations.",
+      "computed_scale": 109.42104982592743,
+      "target": [
+        30.297897338867188,
+        -6.744401931762695,
+        121.7166976928711
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "side-return",
+        "lower-return"
+      ],
+      "azimuth": [
+        -65,
+        -42
+      ],
+      "elevation": 1.75,
+      "evidence": "evidence/pack-03/04-corner-2-screen.png",
+      "evidence_description": "Idealised corner-transfer screen with explicit model limitations.",
+      "computed_scale": 107.78317593649417,
+      "target": [
+        35.751047134399414,
+        -14.127254486083984,
+        94.75689697265625
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "upper-return",
+        "side-return",
+        "lower-return"
+      ],
+      "azimuth": [
+        -45,
+        -20
+      ],
+      "elevation": 1.4,
+      "evidence": "evidence/pack-03/05-capture-envelope.png",
+      "evidence_description": "Velocity sensitivity demonstrates need for physical cup-transfer tests or deeper catcher redesign.",
+      "computed_scale": 113.31836649016853,
+      "target": [
+        30.297897338867188,
+        -12.823448181152344,
+        108.7166976928711
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "lower-return",
+        "inlet-funnel"
+      ],
+      "azimuth": [
+        -65,
+        -40
+      ],
+      "elevation": 1.15,
+      "evidence": "evidence/pack-03/06-funnel-collision.png",
+      "evidence_description": "New measured centreline collision: earlier straight-segment samples omitted this interface.",
+      "computed_scale": 92.20774093947499,
+      "target": [
+        27.962013244628906,
+        -47.76505184173584,
+        72.47968673706055
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "funnel-before",
+        "funnel-after"
+      ],
+      "azimuth": [
+        -70,
+        -35
+      ],
+      "elevation": 1.7,
+      "evidence": "evidence/pack-03/07-relief-comparison.png",
+      "evidence_description": "Two executed solid-cut candidates, preserved failed first study and passing second sampled clearance.",
+      "computed_scale": 46.5753539792678,
+      "target": [
+        33.999982833862305,
+        0.0,
+        14.28146743774414
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "full",
+      "duration": 4,
+      "parts": [
+        "rear-guard",
+        "front-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "crank-arm",
+        "front-spacer",
+        "shaft-retainer",
+        "crank-knob",
+        "inlet-funnel",
+        "outlet-sleeve",
+        "lift-stand-left",
+        "lift-stand-right",
+        "upper-return",
+        "upper-return-stand",
+        "side-return",
+        "side-return-stand",
+        "lower-return",
+        "lower-return-stand",
+        "baseplate"
+      ],
+      "azimuth": [
+        -45,
+        -65
+      ],
+      "elevation": 0.75,
+      "computed_scale": 263.5652199434172,
+      "target": [
+        -8.75,
+        -5.0,
+        86.59260559082031
+      ],
+      "render_height": 1280
+    }
+  ],
+  "part_sources": {
+    "rear-guard": "./assembly-parts/rear-guard.stl",
+    "front-guard": "./assembly-parts/front-guard.stl",
+    "eight-pocket-rotor": "./assembly-parts/eight-pocket-rotor.stl",
+    "keyed-shaft": "./assembly-parts/keyed-shaft.stl",
+    "rear-bush": "./assembly-parts/rear-bush.stl",
+    "crank-arm": "./assembly-parts/crank-arm.stl",
+    "front-spacer": "./assembly-parts/front-spacer.stl",
+    "shaft-retainer": "./assembly-parts/shaft-retainer.stl",
+    "crank-knob": "./assembly-parts/crank-knob.stl",
+    "inlet-funnel": "./assembly-parts/inlet-funnel.stl",
+    "outlet-sleeve": "./assembly-parts/outlet-sleeve.stl",
+    "lift-stand-left": "./assembly-parts/lift-stand-left.stl",
+    "lift-stand-right": "./assembly-parts/lift-stand-right.stl",
+    "upper-return": "./assembly-parts/upper-return.stl",
+    "upper-return-stand": "./assembly-parts/upper-return-stand.stl",
+    "side-return": "./assembly-parts/side-return.stl",
+    "side-return-stand": "./assembly-parts/side-return-stand.stl",
+    "lower-return": "./assembly-parts/lower-return.stl",
+    "lower-return-stand": "./assembly-parts/lower-return-stand.stl",
+    "clearance-coupon": "./assembly-parts/clearance-coupon.stl",
+    "baseplate": "./assembly-parts/baseplate.stl",
+    "print:rear-guard": "./parts/rear-guard.stl",
+    "print:front-guard": "./parts/front-guard.stl",
+    "print:eight-pocket-rotor": "./parts/eight-pocket-rotor.stl",
+    "print:keyed-shaft": "./parts/keyed-shaft.stl",
+    "print:rear-bush": "./parts/rear-bush.stl",
+    "print:crank-arm": "./parts/crank-arm.stl",
+    "print:front-spacer": "./parts/front-spacer.stl",
+    "print:shaft-retainer": "./parts/shaft-retainer.stl",
+    "print:crank-knob": "./parts/crank-knob.stl",
+    "print:inlet-funnel": "./parts/inlet-funnel.stl",
+    "print:outlet-sleeve": "./parts/outlet-sleeve.stl",
+    "print:lift-stand-left": "./parts/lift-stand-left.stl",
+    "print:lift-stand-right": "./parts/lift-stand-right.stl",
+    "print:upper-return": "./parts/upper-return.stl",
+    "print:upper-return-stand": "./parts/upper-return-stand.stl",
+    "print:side-return": "./parts/side-return.stl",
+    "print:side-return-stand": "./parts/side-return-stand.stl",
+    "print:lower-return": "./parts/lower-return.stl",
+    "print:lower-return-stand": "./parts/lower-return-stand.stl",
+    "print:clearance-coupon": "./parts/clearance-coupon.stl",
+    "print:baseplate": "./parts/baseplate.stl",
+    "study-coupon": "evidence/study-parts/expanded-clearance-coupon.stl",
+    "funnel-before": "./assembly-parts/inlet-funnel.stl",
+    "funnel-after": "media/progress/assets/funnel-relief-world.stl"
+  },
+  "human_hours": null,
+  "physical_tested": false,
+  "platform_progress_modal_inspected": false,
+  "format_basis": "43-second portrait editorial default; current progress-modal requirements not supplied",
+  "assistance": "AI-assisted rendering and analysis",
+  "music": "Existing original procedural electro score; media/assets/make_music.py",
+  "added_text": false,
+  "original_evidence_labels_preserved": true
+}

@@ -1,0 +1,140 @@
+{
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "24/1",
+        "nb_read_frames": "768"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "nb_read_frames": "1379"
+      }
+    ],
+    "format": {
+      "duration": "32.000000",
+      "size": "3577838"
+    }
+  },
+  "build_id": "11bf28a4c0b9",
+  "shots": [
+    {
+      "start": 0,
+      "end": 8,
+      "mode": "full",
+      "target": [
+        -7,
+        -3,
+        83
+      ],
+      "azimuth": [
+        -62,
+        -118
+      ],
+      "height": [
+        330,
+        340
+      ],
+      "scale": [
+        253,
+        253
+      ]
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "mode": "cutaway",
+      "target": [
+        -17,
+        0,
+        101
+      ],
+      "azimuth": [
+        -70,
+        -110
+      ],
+      "height": [
+        310,
+        340
+      ],
+      "scale": [
+        192,
+        182
+      ]
+    },
+    {
+      "start": 15,
+      "end": 21,
+      "mode": "tracks",
+      "target": [
+        41,
+        -15,
+        104
+      ],
+      "azimuth": [
+        -36,
+        12
+      ],
+      "height": [
+        470,
+        440
+      ],
+      "scale": [
+        146,
+        150
+      ]
+    },
+    {
+      "start": 21,
+      "end": 26,
+      "mode": "rotor",
+      "target": [
+        -30,
+        0,
+        105
+      ],
+      "azimuth": [
+        -80,
+        -110
+      ],
+      "height": [
+        235,
+        295
+      ],
+      "scale": [
+        152,
+        149
+      ]
+    },
+    {
+      "start": 26,
+      "end": 32,
+      "mode": "full",
+      "target": [
+        -7,
+        -3,
+        83
+      ],
+      "azimuth": [
+        -60,
+        -90
+      ],
+      "height": [
+        360,
+        320
+      ],
+      "scale": [
+        253,
+        253
+      ]
+    }
+  ],
+  "added_text": false,
+  "narration": false,
+  "motion": "camera orbit only; static CAD, not a working-device or dynamics demonstration",
+  "full_decode": "passed"
+}

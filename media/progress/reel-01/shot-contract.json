@@ -1,0 +1,303 @@
+{
+  "pack": 1,
+  "source_commit": "7712d05fe7e66b4126ac8483b1d622be7d8f1079",
+  "build_id": "11bf28a4c0b9",
+  "duration_seconds": 43,
+  "shots": [
+    {
+      "kind": "full",
+      "duration": 4,
+      "parts": [
+        "rear-guard",
+        "front-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "crank-arm",
+        "front-spacer",
+        "shaft-retainer",
+        "crank-knob",
+        "inlet-funnel",
+        "outlet-sleeve",
+        "lift-stand-left",
+        "lift-stand-right",
+        "upper-return",
+        "upper-return-stand",
+        "side-return",
+        "side-return-stand",
+        "lower-return",
+        "lower-return-stand",
+        "baseplate"
+      ],
+      "azimuth": [
+        -67,
+        -49
+      ],
+      "elevation": 0.58,
+      "computed_scale": 263.5679265298978,
+      "target": [
+        -8.75,
+        -5.0,
+        86.59260559082031
+      ],
+      "render_height": 1280
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "rear-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "inlet-funnel",
+        "outlet-sleeve"
+      ],
+      "azimuth": [
+        -74,
+        -54
+      ],
+      "elevation": 0.6,
+      "evidence": "evidence/pack-01/01-interface-map.png",
+      "evidence_description": "Source-derived inlet, seated-pocket and outlet world positions.",
+      "computed_scale": 110.91132753762027,
+      "target": [
+        -30.0,
+        -13.333492279052734,
+        104.7587661743164
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "front-guard",
+        "inlet-funnel"
+      ],
+      "azimuth": [
+        -78,
+        -56
+      ],
+      "elevation": 0.65,
+      "evidence": "evidence/pack-01/02-inlet-section.png",
+      "evidence_description": "True CAD section and tested near-contact sphere positions.",
+      "computed_scale": 104.39072010491336,
+      "target": [
+        -30.0,
+        -25.371031999588013,
+        108.0799503326416
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "front-guard",
+        "eight-pocket-rotor",
+        "inlet-funnel"
+      ],
+      "azimuth": [
+        -76,
+        -62
+      ],
+      "elevation": 0.5,
+      "evidence": "evidence/pack-01/03-inlet-clearance.png",
+      "evidence_description": "90 executed Boolean checks along the aligned lower centreline.",
+      "computed_scale": 106.77577344629351,
+      "target": [
+        -30.0,
+        -20.607036590576172,
+        107.70001602172852
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "rear-guard",
+        "outlet-sleeve"
+      ],
+      "azimuth": [
+        80,
+        104
+      ],
+      "elevation": 0.65,
+      "evidence": "evidence/pack-01/04-outlet-section.png",
+      "evidence_description": "Actual upper outlet section with sampled sphere positions.",
+      "computed_scale": 101.07144394742835,
+      "target": [
+        -30.0,
+        5.938901901245117,
+        104.37883758544922
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "rear-guard",
+        "outlet-sleeve",
+        "eight-pocket-rotor"
+      ],
+      "azimuth": [
+        95,
+        112
+      ],
+      "elevation": 0.45,
+      "evidence": "evidence/pack-01/05-outlet-clearance.png",
+      "evidence_description": "70 exact sphere/rotor/guard/sleeve checks.",
+      "computed_scale": 102.7157474895544,
+      "target": [
+        -30.0,
+        2.443915367126465,
+        104.7587661743164
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "eight-pocket-rotor",
+        "keyed-shaft"
+      ],
+      "azimuth": [
+        -90,
+        -70
+      ],
+      "elevation": 0.5,
+      "evidence": "evidence/pack-01/06-alignment-window.png",
+      "evidence_description": "Executed indexed entry-angle overlap sweep and geometric angular-clearance limit.",
+      "computed_scale": 85.86568110848374,
+      "target": [
+        -30.0,
+        -8.043571472167969,
+        106.29409408569336
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "rear-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "inlet-funnel",
+        "outlet-sleeve"
+      ],
+      "azimuth": [
+        -48,
+        -24
+      ],
+      "elevation": 0.85,
+      "evidence": "evidence/pack-01/07-tilt-gravity.png",
+      "evidence_description": "Computed decomposition highlights weak axial gravity at steep tilt.",
+      "computed_scale": 119.89315968920096,
+      "target": [
+        -30.0,
+        -13.333492279052734,
+        104.7587661743164
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "full",
+      "duration": 4,
+      "parts": [
+        "rear-guard",
+        "front-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "crank-arm",
+        "front-spacer",
+        "shaft-retainer",
+        "crank-knob",
+        "inlet-funnel",
+        "outlet-sleeve",
+        "lift-stand-left",
+        "lift-stand-right",
+        "upper-return",
+        "upper-return-stand",
+        "side-return",
+        "side-return-stand",
+        "lower-return",
+        "lower-return-stand",
+        "baseplate"
+      ],
+      "azimuth": [
+        -45,
+        -65
+      ],
+      "elevation": 0.75,
+      "computed_scale": 263.5652199434172,
+      "target": [
+        -8.75,
+        -5.0,
+        86.59260559082031
+      ],
+      "render_height": 1280
+    }
+  ],
+  "part_sources": {
+    "rear-guard": "./assembly-parts/rear-guard.stl",
+    "front-guard": "./assembly-parts/front-guard.stl",
+    "eight-pocket-rotor": "./assembly-parts/eight-pocket-rotor.stl",
+    "keyed-shaft": "./assembly-parts/keyed-shaft.stl",
+    "rear-bush": "./assembly-parts/rear-bush.stl",
+    "crank-arm": "./assembly-parts/crank-arm.stl",
+    "front-spacer": "./assembly-parts/front-spacer.stl",
+    "shaft-retainer": "./assembly-parts/shaft-retainer.stl",
+    "crank-knob": "./assembly-parts/crank-knob.stl",
+    "inlet-funnel": "./assembly-parts/inlet-funnel.stl",
+    "outlet-sleeve": "./assembly-parts/outlet-sleeve.stl",
+    "lift-stand-left": "./assembly-parts/lift-stand-left.stl",
+    "lift-stand-right": "./assembly-parts/lift-stand-right.stl",
+    "upper-return": "./assembly-parts/upper-return.stl",
+    "upper-return-stand": "./assembly-parts/upper-return-stand.stl",
+    "side-return": "./assembly-parts/side-return.stl",
+    "side-return-stand": "./assembly-parts/side-return-stand.stl",
+    "lower-return": "./assembly-parts/lower-return.stl",
+    "lower-return-stand": "./assembly-parts/lower-return-stand.stl",
+    "clearance-coupon": "./assembly-parts/clearance-coupon.stl",
+    "baseplate": "./assembly-parts/baseplate.stl",
+    "print:rear-guard": "./parts/rear-guard.stl",
+    "print:front-guard": "./parts/front-guard.stl",
+    "print:eight-pocket-rotor": "./parts/eight-pocket-rotor.stl",
+    "print:keyed-shaft": "./parts/keyed-shaft.stl",
+    "print:rear-bush": "./parts/rear-bush.stl",
+    "print:crank-arm": "./parts/crank-arm.stl",
+    "print:front-spacer": "./parts/front-spacer.stl",
+    "print:shaft-retainer": "./parts/shaft-retainer.stl",
+    "print:crank-knob": "./parts/crank-knob.stl",
+    "print:inlet-funnel": "./parts/inlet-funnel.stl",
+    "print:outlet-sleeve": "./parts/outlet-sleeve.stl",
+    "print:lift-stand-left": "./parts/lift-stand-left.stl",
+    "print:lift-stand-right": "./parts/lift-stand-right.stl",
+    "print:upper-return": "./parts/upper-return.stl",
+    "print:upper-return-stand": "./parts/upper-return-stand.stl",
+    "print:side-return": "./parts/side-return.stl",
+    "print:side-return-stand": "./parts/side-return-stand.stl",
+    "print:lower-return": "./parts/lower-return.stl",
+    "print:lower-return-stand": "./parts/lower-return-stand.stl",
+    "print:clearance-coupon": "./parts/clearance-coupon.stl",
+    "print:baseplate": "./parts/baseplate.stl",
+    "study-coupon": "evidence/study-parts/expanded-clearance-coupon.stl",
+    "funnel-before": "./assembly-parts/inlet-funnel.stl",
+    "funnel-after": "media/progress/assets/funnel-relief-world.stl"
+  },
+  "human_hours": null,
+  "physical_tested": false,
+  "platform_progress_modal_inspected": false,
+  "format_basis": "43-second portrait editorial default; current progress-modal requirements not supplied",
+  "assistance": "AI-assisted rendering and analysis",
+  "music": "Existing original procedural electro score; media/assets/make_music.py",
+  "added_text": false,
+  "original_evidence_labels_preserved": true
+}

@@ -1,0 +1,146 @@
+{
+  "requested_packs": 4,
+  "verified_reels": 4,
+  "videos": [
+    {
+      "file": "media/progress/LoopLift-progress-01-feed-discharge.mp4",
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1",
+            "nb_read_frames": "1032"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_read_frames": "1852"
+          }
+        ],
+        "format": {
+          "duration": "43.000000",
+          "size": "2932198"
+        }
+      },
+      "full_decode": "passed",
+      "evidence_images": 7,
+      "decoded_samples": 13,
+      "sha256": "5fbd8a93cc7ef4e3b8f5e5e44e148037b4690df219481405e9e099f5fda75df8",
+      "human_hours": null,
+      "physical_tested": false,
+      "motion": "Camera only; separate parts laid out for inspection; no operation animation",
+      "audio_level_check": [
+        "[Parsed_volumedetect_0 @ 0x5d27c4e211c0] mean_volume: -30.2 dB",
+        "[Parsed_volumedetect_0 @ 0x5d27c4e211c0] max_volume: -11.7 dB"
+      ]
+    },
+    {
+      "file": "media/progress/LoopLift-progress-02-drive-tolerances.mp4",
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1",
+            "nb_read_frames": "1032"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_read_frames": "1852"
+          }
+        ],
+        "format": {
+          "duration": "43.000000",
+          "size": "2732906"
+        }
+      },
+      "full_decode": "passed",
+      "evidence_images": 7,
+      "decoded_samples": 13,
+      "sha256": "a3686a28223e9cee82ac812ef68c88d44bce8c9cf77dfef8e9070573c9ec52e1",
+      "human_hours": null,
+      "physical_tested": false,
+      "motion": "Camera only; separate parts laid out for inspection; no operation animation",
+      "audio_level_check": [
+        "[Parsed_volumedetect_0 @ 0x5c9720abf1c0] mean_volume: -30.2 dB",
+        "[Parsed_volumedetect_0 @ 0x5c9720abf1c0] max_volume: -11.7 dB"
+      ]
+    },
+    {
+      "file": "media/progress/LoopLift-progress-03-return-path.mp4",
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1",
+            "nb_read_frames": "1032"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_read_frames": "1852"
+          }
+        ],
+        "format": {
+          "duration": "43.000000",
+          "size": "3154949"
+        }
+      },
+      "full_decode": "passed",
+      "evidence_images": 7,
+      "decoded_samples": 13,
+      "sha256": "efa923c1193d936cde2a4f302d6a2a74b8ea2a50b64c6d2b110ed24670266fa3",
+      "human_hours": null,
+      "physical_tested": false,
+      "motion": "Camera only; separate parts laid out for inspection; no operation animation",
+      "audio_level_check": [
+        "[Parsed_volumedetect_0 @ 0x5d1f480851c0] mean_volume: -30.2 dB",
+        "[Parsed_volumedetect_0 @ 0x5d1f480851c0] max_volume: -11.7 dB"
+      ]
+    },
+    {
+      "file": "media/progress/LoopLift-progress-04-print-preparation.mp4",
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1",
+            "nb_read_frames": "1032"
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "nb_read_frames": "1852"
+          }
+        ],
+        "format": {
+          "duration": "43.000000",
+          "size": "3112036"
+        }
+      },
+      "full_decode": "passed",
+      "evidence_images": 7,
+      "decoded_samples": 13,
+      "sha256": "4ceb2611259c274c85ca45ed176b8e41114e2bc832653223910bcdbf832cc90b",
+      "human_hours": null,
+      "physical_tested": false,
+      "motion": "Camera only; separate parts laid out for inspection; no operation animation",
+      "audio_level_check": [
+        "[Parsed_volumedetect_0 @ 0x5c5c7d1f91c0] mean_volume: -30.2 dB",
+        "[Parsed_volumedetect_0 @ 0x5c5c7d1f91c0] max_volume: -11.7 dB"
+      ]
+    }
+  ]
+}

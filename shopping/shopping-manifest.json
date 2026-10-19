@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "asin": "B0G3V4JPWC",
+      "name": "M3 hardware assortment, 2240-piece kit",
+      "aed": "109.99",
+      "qty": 1,
+      "seller": "MENGXIAN-AE; fulfilled by Amazon",
+      "covers": [
+        "M3x20 bolt",
+        "M3x30 bolt",
+        "M3x12 bolt",
+        "M3x8 screw",
+        "M3x12 retainer screw",
+        "M3x35 bolt",
+        "M3 nuts",
+        "M3 washers"
+      ],
+      "note": "Advertised size counts checked from kit photo. Machine-thread screws for printed pilots remain fit-test-dependent; heads, engagement and shaft retainer not validated. Includes large surplus of fasteners.",
+      "url": "https://www.amazon.ae/dp/B0G3V4JPWC",
+      "usd_form": "29.95"
+    },
+    {
+      "asin": "B0D86NS9JB",
+      "name": "Nominal 8mm steel balls, 160-pack",
+      "aed": "39.99",
+      "qty": 1,
+      "seller": "DCSMYX; fulfilled by Amazon",
+      "covers": [
+        "8mm marble"
+      ],
+      "note": "One ball needed initially. Exact steel grade and dimensional tolerance not established; measure actual diameter. Not magnets.",
+      "url": "https://www.amazon.ae/dp/B0D86NS9JB",
+      "usd_form": "10.89"
+    },
+    {
+      "asin": "B07MGCJS68",
+      "name": "Filatech PLA 1.75mm, 1kg spool, Snow White",
+      "aed": "65.00",
+      "qty": 1,
+      "seller": "Buildplate-ae; fulfilled by Amazon",
+      "covers": [
+        "PLA filament"
+      ],
+      "note": "One colour for prototype; approximately 327g baseline sliced estimate excludes extra iterations.",
+      "url": "https://www.amazon.ae/dp/B07MGCJS68",
+      "usd_form": "17.70"
+    },
+    {
+      "asin": "B09KCHGRZF",
+      "name": "Pattex Super Glue Power Gel, 3g",
+      "aed": "9.79",
+      "qty": 1,
+      "seller": "Amazon.ae",
+      "covers": [
+        "Adhesive"
+      ],
+      "note": "Test bond on PLA scrap. Keep out of bores; follow label, avoid skin and eye contact.",
+      "url": "https://www.amazon.ae/dp/B09KCHGRZF",
+      "usd_form": "2.67"
+    }
+  ],
+  "AED_subtotal": "224.77",
+  "USD_direct_conversion": "61.20",
+  "USD_rounded_form_rows_total": "61.21",
+  "AED_per_USD_assumption": "3.6725",
+  "shipping": "Guest cart qualifies for free shipping when that option is selected; final checkout not verified",
+  "VAT": "Amazon lists VAT-inclusive prices; do not add VAT again",
+  "cart_scope": "Verified guest browser cart only, not transferred to user account",
+  "purchased": false,
+  "funding_approval": false,
+  "coverage_rows": 11
+}

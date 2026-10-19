@@ -1,0 +1,63 @@
+{
+  "baseline_preserved_except": [
+    ".gitattributes",
+    "MANIFEST.json",
+    "README.md"
+  ],
+  "local_markdown_links": "passed",
+  "privacy_scan": "passed",
+  "python_syntax": "passed",
+  "evidence_images": 28,
+  "per_pack": {
+    "1": 7,
+    "2": 7,
+    "3": 7,
+    "4": 7
+  },
+  "entry_drafts": 4,
+  "study_stl_files": [
+    "funnel-lip-relief-study.stl",
+    "expanded-clearance-coupon.stl",
+    "funnel-lip-relief-v1.stl"
+  ],
+  "study_step_files": 3,
+  "videos": [
+    {
+      "path": "media/idea/LoopLift-idea-reel-no-text.mp4",
+      "duration": 32,
+      "sha256": "fa1b2631eec9e3c6570a376522bb771f315b6e2a067ca4f00cdc3698109d7ee8",
+      "full_decode": "passed"
+    },
+    {
+      "path": "media/progress/LoopLift-progress-01-feed-discharge.mp4",
+      "duration": 43,
+      "sha256": "5fbd8a93cc7ef4e3b8f5e5e44e148037b4690df219481405e9e099f5fda75df8",
+      "full_decode": "passed"
+    },
+    {
+      "path": "media/progress/LoopLift-progress-02-drive-tolerances.mp4",
+      "duration": 43,
+      "sha256": "a3686a28223e9cee82ac812ef68c88d44bce8c9cf77dfef8e9070573c9ec52e1",
+      "full_decode": "passed"
+    },
+    {
+      "path": "media/progress/LoopLift-progress-03-return-path.mp4",
+      "duration": 43,
+      "sha256": "efa923c1193d936cde2a4f302d6a2a74b8ea2a50b64c6d2b110ed24670266fa3",
+      "full_decode": "passed"
+    },
+    {
+      "path": "media/progress/LoopLift-progress-04-print-preparation.mp4",
+      "duration": 43,
+      "sha256": "4ceb2611259c274c85ca45ed176b8e41114e2bc832653223910bcdbf832cc90b",
+      "full_decode": "passed"
+    }
+  ],
+  "shopping_pack_rows": 4,
+  "requirement_rows": 11,
+  "cart_AED_subtotal": "224.77",
+  "baseline_print_parts": 21,
+  "max_file_bytes": 3577838,
+  "physical_tested": false,
+  "human_hours": null
+}

@@ -1,0 +1,31 @@
+{
+  "file": "media/progress/LoopLift-progress-02-drive-tolerances.mp4",
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "24/1",
+        "nb_read_frames": "1032"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "nb_read_frames": "1852"
+      }
+    ],
+    "format": {
+      "duration": "43.000000",
+      "size": "2732906"
+    }
+  },
+  "full_decode": "passed",
+  "evidence_images": 7,
+  "decoded_samples": 13,
+  "sha256": "a3686a28223e9cee82ac812ef68c88d44bce8c9cf77dfef8e9070573c9ec52e1",
+  "human_hours": null,
+  "physical_tested": false,
+  "motion": "Camera only; separate parts laid out for inspection; no operation animation"
+}

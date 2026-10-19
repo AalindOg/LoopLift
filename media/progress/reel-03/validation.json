@@ -1,0 +1,31 @@
+{
+  "file": "media/progress/LoopLift-progress-03-return-path.mp4",
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "24/1",
+        "nb_read_frames": "1032"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "nb_read_frames": "1852"
+      }
+    ],
+    "format": {
+      "duration": "43.000000",
+      "size": "3154949"
+    }
+  },
+  "full_decode": "passed",
+  "evidence_images": 7,
+  "decoded_samples": 13,
+  "sha256": "efa923c1193d936cde2a4f302d6a2a74b8ea2a50b64c6d2b110ed24670266fa3",
+  "human_hours": null,
+  "physical_tested": false,
+  "motion": "Camera only; separate parts laid out for inspection; no operation animation"
+}

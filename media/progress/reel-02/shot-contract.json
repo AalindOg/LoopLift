@@ -1,0 +1,298 @@
+{
+  "pack": 2,
+  "source_commit": "7712d05fe7e66b4126ac8483b1d622be7d8f1079",
+  "build_id": "11bf28a4c0b9",
+  "duration_seconds": 43,
+  "shots": [
+    {
+      "kind": "full",
+      "duration": 4,
+      "parts": [
+        "rear-guard",
+        "front-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "crank-arm",
+        "front-spacer",
+        "shaft-retainer",
+        "crank-knob",
+        "inlet-funnel",
+        "outlet-sleeve",
+        "lift-stand-left",
+        "lift-stand-right",
+        "upper-return",
+        "upper-return-stand",
+        "side-return",
+        "side-return-stand",
+        "lower-return",
+        "lower-return-stand",
+        "baseplate"
+      ],
+      "azimuth": [
+        -67,
+        -49
+      ],
+      "elevation": 0.58,
+      "computed_scale": 263.5679265298978,
+      "target": [
+        -8.75,
+        -5.0,
+        86.59260559082031
+      ],
+      "render_height": 1280
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "keyed-shaft",
+        "rear-bush",
+        "front-spacer",
+        "crank-arm",
+        "crank-knob",
+        "shaft-retainer"
+      ],
+      "azimuth": [
+        -65,
+        -40
+      ],
+      "elevation": 0.7,
+      "evidence": "evidence/pack-02/01-axial-stack.png",
+      "evidence_description": "Actual stack reveals spacing between crank and retainer still requires hardware review.",
+      "computed_scale": 44.95148144711626,
+      "target": [
+        -19.996524810791016,
+        -17.741147994995117,
+        109.15869140625
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "keyed-shaft",
+        "crank-arm"
+      ],
+      "azimuth": [
+        -70,
+        -40
+      ],
+      "elevation": 0.8,
+      "evidence": "evidence/pack-02/02-key-cross-section.png",
+      "evidence_description": "Source-parameter cross-section; friction and torque capacity not tested.",
+      "computed_scale": 37.50441759601374,
+      "target": [
+        -19.996524810791016,
+        -9.818473815917969,
+        108.49956130981445
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "keyed-shaft",
+        "rear-bush"
+      ],
+      "azimuth": [
+        75,
+        102
+      ],
+      "elevation": 0.65,
+      "evidence": "evidence/pack-02/03-bearing-budget.png",
+      "evidence_description": "Sensitivity of 8.6mm bore/8mm shaft to opposing dimensional errors.",
+      "computed_scale": 25.686916934301344,
+      "target": [
+        -30.0,
+        -9.818473815917969,
+        105.69018173217773
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "crank-arm",
+        "crank-knob",
+        "front-guard",
+        "inlet-funnel"
+      ],
+      "azimuth": [
+        -65,
+        -43
+      ],
+      "elevation": 0.5,
+      "evidence": "evidence/pack-02/04-crank-sweep.png",
+      "evidence_description": "Recreates collision for 36mm and compares 22mm/28mm candidates; current remains 22mm.",
+      "computed_scale": 104.30036995502579,
+      "target": [
+        -30.0,
+        -25.371031999588013,
+        108.0799503326416
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "eight-pocket-rotor"
+      ],
+      "azimuth": [
+        -80,
+        -58
+      ],
+      "elevation": 0.6,
+      "evidence": "evidence/pack-02/05-pocket-budget.png",
+      "evidence_description": "Computed sensitivity shows why actual ball measurement matters.",
+      "computed_scale": 90.73897508386457,
+      "target": [
+        -30.0,
+        -4.829628944396973,
+        106.29409408569336
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "front-guard",
+        "rear-guard",
+        "eight-pocket-rotor"
+      ],
+      "azimuth": [
+        -8,
+        10
+      ],
+      "elevation": 0.55,
+      "evidence": "evidence/pack-02/06-axial-budget.png",
+      "evidence_description": "Nominal .4mm per side can be lost to thickness variation; not a printer accuracy claim.",
+      "computed_scale": 108.4567553574571,
+      "target": [
+        -30.0,
+        -4.34666633605957,
+        106.16468811035156
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "evidence",
+      "duration": 5,
+      "parts": [
+        "study-coupon"
+      ],
+      "azimuth": [
+        -80,
+        -52
+      ],
+      "elevation": 0.9,
+      "evidence": "evidence/pack-02/07-coupon-study.png",
+      "evidence_description": "Drilled-bore coupon generated and mesh-checked for later measured fit tests.",
+      "computed_scale": 67.31764035913974,
+      "target": [
+        50.0,
+        0.0,
+        2.5
+      ],
+      "render_height": 800
+    },
+    {
+      "kind": "full",
+      "duration": 4,
+      "parts": [
+        "rear-guard",
+        "front-guard",
+        "eight-pocket-rotor",
+        "keyed-shaft",
+        "rear-bush",
+        "crank-arm",
+        "front-spacer",
+        "shaft-retainer",
+        "crank-knob",
+        "inlet-funnel",
+        "outlet-sleeve",
+        "lift-stand-left",
+        "lift-stand-right",
+        "upper-return",
+        "upper-return-stand",
+        "side-return",
+        "side-return-stand",
+        "lower-return",
+        "lower-return-stand",
+        "baseplate"
+      ],
+      "azimuth": [
+        -45,
+        -65
+      ],
+      "elevation": 0.75,
+      "computed_scale": 263.5652199434172,
+      "target": [
+        -8.75,
+        -5.0,
+        86.59260559082031
+      ],
+      "render_height": 1280
+    }
+  ],
+  "part_sources": {
+    "rear-guard": "./assembly-parts/rear-guard.stl",
+    "front-guard": "./assembly-parts/front-guard.stl",
+    "eight-pocket-rotor": "./assembly-parts/eight-pocket-rotor.stl",
+    "keyed-shaft": "./assembly-parts/keyed-shaft.stl",
+    "rear-bush": "./assembly-parts/rear-bush.stl",
+    "crank-arm": "./assembly-parts/crank-arm.stl",
+    "front-spacer": "./assembly-parts/front-spacer.stl",
+    "shaft-retainer": "./assembly-parts/shaft-retainer.stl",
+    "crank-knob": "./assembly-parts/crank-knob.stl",
+    "inlet-funnel": "./assembly-parts/inlet-funnel.stl",
+    "outlet-sleeve": "./assembly-parts/outlet-sleeve.stl",
+    "lift-stand-left": "./assembly-parts/lift-stand-left.stl",
+    "lift-stand-right": "./assembly-parts/lift-stand-right.stl",
+    "upper-return": "./assembly-parts/upper-return.stl",
+    "upper-return-stand": "./assembly-parts/upper-return-stand.stl",
+    "side-return": "./assembly-parts/side-return.stl",
+    "side-return-stand": "./assembly-parts/side-return-stand.stl",
+    "lower-return": "./assembly-parts/lower-return.stl",
+    "lower-return-stand": "./assembly-parts/lower-return-stand.stl",
+    "clearance-coupon": "./assembly-parts/clearance-coupon.stl",
+    "baseplate": "./assembly-parts/baseplate.stl",
+    "print:rear-guard": "./parts/rear-guard.stl",
+    "print:front-guard": "./parts/front-guard.stl",
+    "print:eight-pocket-rotor": "./parts/eight-pocket-rotor.stl",
+    "print:keyed-shaft": "./parts/keyed-shaft.stl",
+    "print:rear-bush": "./parts/rear-bush.stl",
+    "print:crank-arm": "./parts/crank-arm.stl",
+    "print:front-spacer": "./parts/front-spacer.stl",
+    "print:shaft-retainer": "./parts/shaft-retainer.stl",
+    "print:crank-knob": "./parts/crank-knob.stl",
+    "print:inlet-funnel": "./parts/inlet-funnel.stl",
+    "print:outlet-sleeve": "./parts/outlet-sleeve.stl",
+    "print:lift-stand-left": "./parts/lift-stand-left.stl",
+    "print:lift-stand-right": "./parts/lift-stand-right.stl",
+    "print:upper-return": "./parts/upper-return.stl",
+    "print:upper-return-stand": "./parts/upper-return-stand.stl",
+    "print:side-return": "./parts/side-return.stl",
+    "print:side-return-stand": "./parts/side-return-stand.stl",
+    "print:lower-return": "./parts/lower-return.stl",
+    "print:lower-return-stand": "./parts/lower-return-stand.stl",
+    "print:clearance-coupon": "./parts/clearance-coupon.stl",
+    "print:baseplate": "./parts/baseplate.stl",
+    "study-coupon": "evidence/study-parts/expanded-clearance-coupon.stl",
+    "funnel-before": "./assembly-parts/inlet-funnel.stl",
+    "funnel-after": "media/progress/assets/funnel-relief-world.stl"
+  },
+  "human_hours": null,
+  "physical_tested": false,
+  "platform_progress_modal_inspected": false,
+  "format_basis": "43-second portrait editorial default; current progress-modal requirements not supplied",
+  "assistance": "AI-assisted rendering and analysis",
+  "music": "Existing original procedural electro score; media/assets/make_music.py",
+  "added_text": false,
+  "original_evidence_labels_preserved": true
+}

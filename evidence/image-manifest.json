@@ -1,0 +1,142 @@
+[
+  {
+    "pack": 1,
+    "image": "pack-01/01-interface-map.png",
+    "evidence": "Source-derived inlet, seated-pocket and outlet world positions."
+  },
+  {
+    "pack": 1,
+    "image": "pack-01/02-inlet-section.png",
+    "evidence": "True CAD section and tested near-contact sphere positions."
+  },
+  {
+    "pack": 1,
+    "image": "pack-01/03-inlet-clearance.png",
+    "evidence": "90 executed Boolean checks along the aligned lower centreline."
+  },
+  {
+    "pack": 1,
+    "image": "pack-01/04-outlet-section.png",
+    "evidence": "Actual upper outlet section with sampled sphere positions."
+  },
+  {
+    "pack": 1,
+    "image": "pack-01/05-outlet-clearance.png",
+    "evidence": "70 exact sphere/rotor/guard/sleeve checks."
+  },
+  {
+    "pack": 1,
+    "image": "pack-01/06-alignment-window.png",
+    "evidence": "Executed indexed entry-angle overlap sweep and geometric angular-clearance limit."
+  },
+  {
+    "pack": 1,
+    "image": "pack-01/07-tilt-gravity.png",
+    "evidence": "Computed decomposition highlights weak axial gravity at steep tilt."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/01-axial-stack.png",
+    "evidence": "Actual stack reveals spacing between crank and retainer still requires hardware review."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/02-key-cross-section.png",
+    "evidence": "Source-parameter cross-section; friction and torque capacity not tested."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/03-bearing-budget.png",
+    "evidence": "Sensitivity of 8.6mm bore/8mm shaft to opposing dimensional errors."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/04-crank-sweep.png",
+    "evidence": "Recreates collision for 36mm and compares 22mm/28mm candidates; current remains 22mm."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/05-pocket-budget.png",
+    "evidence": "Computed sensitivity shows why actual ball measurement matters."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/06-axial-budget.png",
+    "evidence": "Nominal .4mm per side can be lost to thickness variation; not a printer accuracy claim."
+  },
+  {
+    "pack": 2,
+    "image": "pack-02/07-coupon-study.png",
+    "evidence": "Drilled-bore coupon generated and mesh-checked for later measured fit tests."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/01-route-plan.png",
+    "evidence": "Three source-defined return segments and lift interfaces."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/02-grade-profile.png",
+    "evidence": "Computed lengths, downward grades and vertical discontinuities."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/03-corner-1-screen.png",
+    "evidence": "Idealised corner-transfer screen with explicit model limitations."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/04-corner-2-screen.png",
+    "evidence": "Idealised corner-transfer screen with explicit model limitations."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/05-capture-envelope.png",
+    "evidence": "Velocity sensitivity demonstrates need for physical cup-transfer tests or deeper catcher redesign."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/06-funnel-collision.png",
+    "evidence": "New measured centreline collision: earlier straight-segment samples omitted this interface."
+  },
+  {
+    "pack": 3,
+    "image": "pack-03/07-relief-comparison.png",
+    "evidence": "Two executed solid-cut candidates, preserved failed first study and passing second sampled clearance."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/01-part-inventory.png",
+    "evidence": "21 individual published part checks; each expected one solid."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/02-bed-fit.png",
+    "evidence": "All 21 source mesh bounds compared with 256mm envelope; footprint and height separate."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/03-material-breakdown.png",
+    "evidence": "Per-part slicer filament requirements, not solid-CAD volumes."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/04-print-time.png",
+    "evidence": "Existing slicer machine-time estimates explicitly separated from human work."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/05-orientation-risks.png",
+    "evidence": "Source dimensions identify tall supports/shaft; angled faces and nut traps still need layer review."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/06-coverage-matrix.png",
+    "evidence": "Evidence matrix distinguishes past export validation, fresh audit and remaining physical gates."
+  },
+  {
+    "pack": 4,
+    "image": "pack-04/07-physical-test-plan.png",
+    "evidence": "Unexecuted acceptance plan is explicitly prospective, not fabricated test evidence."
+  }
+]
