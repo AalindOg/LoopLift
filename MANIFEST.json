@@ -124,8 +124,8 @@
       "sha256": "8cfc09a7b706b543538b1750a937c3a737f79fdd0f28739bf8bba8ae8f837a83"
     },
     "bom-shopping.csv": {
-      "bytes": 1118,
-      "sha256": "f31e30808dc2f028d6f1d9026744435ab87b765ab1618ecc97f4d3ce637cfe81"
+      "bytes": 1105,
+      "sha256": "17ca4915a72af8e840c4382496dcff02b94bca233ca3b9dc59f96d4eb549f9ce"
     },
     "bom.csv": {
       "bytes": 1133,
@@ -912,12 +912,12 @@
       "sha256": "0ef86a7b49cc954f27e368204fed4f103f34d529c80ed63516bcae08c0621bf7"
     },
     "shopping/LoopLift-priced-shopping-list.csv": {
-      "bytes": 1118,
-      "sha256": "f31e30808dc2f028d6f1d9026744435ab87b765ab1618ecc97f4d3ce637cfe81"
+      "bytes": 1105,
+      "sha256": "17ca4915a72af8e840c4382496dcff02b94bca233ca3b9dc59f96d4eb549f9ce"
     },
     "shopping/README.md": {
-      "bytes": 4747,
-      "sha256": "72ab57191bbdf8a159ce8ecb7163d43496853a2e71d66b9e8b0b8f77a748db5f"
+      "bytes": 5541,
+      "sha256": "ed40698d0f2eb3c4cfc7d8411b3d9795a328dcbfcd9b24c296210a23731bcd5e"
     },
     "shopping/amazon-cart-cropped.png": {
       "bytes": 462184,
@@ -950,6 +950,10 @@
     "upstream/source.json": {
       "bytes": 842,
       "sha256": "d7ea8de324faa0ad6caa29c9c7d796d7590892d6b2adb6356bbc403b3fbc198d"
+    },
+    "shopping/price-breakdown.csv": {
+      "bytes": 1113,
+      "sha256": "7deaf80205a404161afa7c4ea95edab6e6f7a5256026f1c93fa5c402f2b8f586"
     }
   }
 }

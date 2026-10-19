@@ -11,7 +11,13 @@ The guest cart showed free-shipping eligibility if that option is chosen. Final 
 | Filatech PLA 1.75mm, 1kg spool, Snow White | 1 | 65.00 | 17.70 | [Amazon UAE](https://www.amazon.ae/dp/B07MGCJS68) |
 | Pattex Super Glue Power Gel, 3g | 1 | 9.79 | 2.67 | [Amazon UAE](https://www.amazon.ae/dp/B09KCHGRZF) |
 
-[Download the priced CSV](../bom-shopping.csv) · [Original requirements BOM](../bom.csv) · [Structured shopping manifest](shopping-manifest.json)
+[Download the USD import CSV](../bom-shopping.csv) · [Detailed AED/USD breakdown](price-breakdown.csv) · [Original requirements BOM](../bom.csv) · [Structured shopping manifest](shopping-manifest.json)
+
+### Import prices
+
+The import CSV now uses a single numeric **Unit Price** column in **USD**, with plain **Quantity** values. The previous file used `Approx unit USD` and `Qty (packs)` alongside a second AED price column; the observed import preview did not populate unit prices. The new headers remove that ambiguity, but the authenticated platform import has not been verified.
+
+Re-open the import and choose `bom-shopping.csv`. Check that its four unit prices read **29.95, 10.89, 17.70, 2.67**, quantity **1 each**. If the importer offers column mapping, map `Unit Price` to unit price and `Quantity` to quantity. Do not confirm a preview with missing prices; those same values can be entered manually. Keep prices in USD, not AED.
 
 ## Requirement coverage and fit checks
 
